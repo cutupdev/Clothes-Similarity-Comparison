@@ -35,7 +35,5 @@ After creating a virtual environment in the cloned repository, install the depen
 pip install -r requirements-script.txt
 ```
 
-Developed by Conrad Takashi(https://discord.com/users/382102787649175553)
-
 
 <img src="img/similarity.JPG" width="600">
