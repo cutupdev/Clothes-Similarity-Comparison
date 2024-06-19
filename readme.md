@@ -26,7 +26,7 @@ The scraped data is further feature-engineered and preprocessed to generate a wo
 To use util functions and scripts such as _the scraper_ and _the encoders_, clone this repository to your local environment to get started:
 
 ```
-git clone https://github.com/catlover75926/Clothes-Similarity-Comparison.git
+git clone https://github.com/HarmoniTech/Clothes-Similarity-Comparison.git
 ```
 
 After creating a virtual environment in the cloned repository, install the dependencies as:
